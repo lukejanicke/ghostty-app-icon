@@ -6,6 +6,6 @@
 
 An unofficial Ghostty app icon for macOS, based on the [SVG logo](https://ghostty.org/_next/static/media/ghostty-logo.6cca3a6b.svg) from the [Ghostty](https://ghostty.org/download) website.
 
-**Download:** [ghostty.icns][download]
+Download: [ghostty.icns][download]
 
 [download]: https://github.com/lukejanicke/ghostty-app-icon/releases/download/v1.0.0/ghostty.icns
