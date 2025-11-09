@@ -1,4 +1,4 @@
-# Ghostty App Icon
+# Ghostty App Icons
 
 <p align="center"><img src="./iconsets/ghostty-original.iconset/icon_128x128@2x.png" title="Ghostty Original" width="128" height="128"></p>
 
